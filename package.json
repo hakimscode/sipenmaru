@@ -1,0 +1,19 @@
+{
+  "name": "sipenmaru",
+  "version": "1.0.0",
+  "description": "Project SIPENMARU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakimscode/sipenmaru.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hakimscode/sipenmaru/issues"
+  },
+  "homepage": "https://github.com/hakimscode/sipenmaru#readme"
+}
